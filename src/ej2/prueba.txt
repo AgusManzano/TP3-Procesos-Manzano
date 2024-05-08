@@ -1,0 +1,4 @@
+Linea de comandos:
++ gcc test.c //compila el archivo test.c
++ gcc -o test test.c  //compila el archivo test.c con el nombre de salida test
++ 
